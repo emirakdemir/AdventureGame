@@ -17,14 +17,14 @@
 • Eşya : Para, Silah veya Zırh <br/>
  <br/>
  
-##**Yılan Özellikleri**
+## **Yılan Özellikleri**
 • ID : 4 <br/>
 • HASAR : Rastgele (3 ve 6 arası) <br/>
 • SAĞLIK :12 <br/>
 • PARA : Yok (Onun yerine eşya kazanma ihtimali) <br/>
 <br/>
 
-##**Yenilen bir rakiplerden düşen eşyalar**
+## **Yenilen bir rakiplerden düşen eşyalar**
 • Silah Kazanma İhtimali : 15% <br/>
 • Tüfek Kazanma İhtimali : 20% <br/>
 • Kılıç Kazanma İhtimali : 30% <br/>
