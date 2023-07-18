@@ -1,5 +1,6 @@
 ## *Java ile metin tabanlı bir macera oyunu*
-[diagram](https://github.com/emirakdemir/AdventureGame/blob/main/diagram.jpg) <br/>
+![image](https://github.com/emirakdemir/AdventureGame/assets/77544885/1d530d80-c227-4247-aed7-3efeb1da8f80)
+
 
 1- Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra bölgeye özel ödülü oyunucun envanterine eklenmelidir. Eğer oyuncu tüm ödülleri toplayıp "Güvenli Eve" dönebilirse oyunu kazanır. Ayrıca ödül kazanılan bölgeye tekrar giriş yapılamaz
 <br/>
